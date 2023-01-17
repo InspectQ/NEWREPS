@@ -1,0 +1,9 @@
+node_modules
+*.txt
+
+.env.*local
+
+nmp-debug.log*
+#ide*
+.vscode
+.sw?
